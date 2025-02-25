@@ -1,0 +1,19 @@
+# def gen():
+#     for i in range(10):
+#         yield i
+
+# for i in gen():
+#     print(id(i))
+
+# d = gen()
+# print(next(d))
+# print(next(d))
+# print(next(d))
+# print(next(d))
+
+
+# a = iter([1,2,3,4,5,6])
+
+# print(next(a))
+# print(next(a))
+# print(next(a))
